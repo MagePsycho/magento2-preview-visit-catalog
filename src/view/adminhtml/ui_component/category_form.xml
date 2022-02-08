@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * @category   MagePsycho
+ * @package    MagePsycho_GoToCatalog
+ * @author     Raj KB <info@magepsycho.com>
+ * @website    https://www.magepsycho.com
+ * @license    http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
+ */
+-->
+<form xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Ui:etc/ui_configuration.xsd">
+    <settings>
+        <buttons>
+            <button name="mpGoToCatalogViewInStore" class="MagePsycho\GoToCatalog\Block\Adminhtml\Category\Edit\Button\ViewInStore" />
+        </buttons>
+    </settings>
+</form>
