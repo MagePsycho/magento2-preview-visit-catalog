@@ -7,8 +7,8 @@
 
 <div align="center">
 
-[![Packagist Version](https://img.shields.io/github/v/tag/MagePsycho/magento2-preview-visit-catalog?sort=semver&label=packagist&style=for-the-badge)](https://packagist.org/packages/magepsycho/magento2-gotocatalog)
-[![Packagist Downloads](https://img.shields.io/packagist/dt/magepsycho/magento2-gotocatalog.svg?style=for-the-badge)](https://packagist.org/packages/magepsycho/magento2-gotocatalog/stats)
+[![Packagist Version](https://img.shields.io/github/v/tag/MagePsycho/magento2-preview-visit-catalog?logo=packagist&sort=semver&label=packagist&style=for-the-badge)](https://packagist.org/packages/magepsycho/magento2-gotocatalog)
+[![Packagist Downloads](https://img.shields.io/packagist/dt/magepsycho/magento2-gotocatalog.svg?logo=composer&style=for-the-badge)](https://packagist.org/packages/magepsycho/magento2-gotocatalog/stats)
 ![Supported Magento Versions](https://img.shields.io/badge/magento-%202.3_|_2.4-brightgreen.svg?logo=magento&longCache=true&style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-green?color=%23234&style=for-the-badge)
 
@@ -46,7 +46,7 @@ Users can reach the product page directly via SKU in the URL.
 
 ![Magento 2 Preview/Visit Catalog - Product Page](https://www.magepsycho.com/media/catalog/product/9/_/9.m2-preview-visit-catalog-redirect-via-sku-url.png)
 
-## Installation
+## 🛠️ Installation
 
 **Using Composer**
 
@@ -92,15 +92,18 @@ php bin/magento setup:static-content:deploy
 * Initial Release.
 
 ## Authors
+- Raj KB [![Twitter Follow](https://img.shields.io/twitter/follow/rajkbnp.svg?style=social)](https://twitter.com/rajkbnp)
 
-- Raj KB [Maintainer] [![Twitter Follow](https://img.shields.io/twitter/follow/rajkbnp.svg?style=social)](https://twitter.com/rajkbnp)
-- `{{this could be you}}` (see "Contribution" section)
+## Contributors
+
+![Your Repository's Stats](https://contrib.rocks/image?repo=MagePsycho/magento2-preview-visit-catalog)
+
+## To Contribute
+Any contribution to the development of `Magento 2 Preview/Visit Catalog` is highly welcome.  
+The best possibility to provide any code is to open a [pull request on GitHub](https://github.com/MagePsycho/magento2-preview-visit-catalog/pulls).
 
 ## Need Support?
 If you encounter any problems or bugs, please create an issue on [GitHub](https://github.com/MagePsycho/magento2-preview-visit-catalog/issues).
 
 Please [visit our store](https://www.magepsycho.com/extensions/magento-2.html) for more FREE / paid extensions OR [contact us](https://magepsycho.com/contact) for customization / development services.
 
-## Contribution
-Any contribution to the development of `Magento 2 Preview/Visit Catalog` is highly welcome.  
-The best possibility to provide any code is to open a [pull request on GitHub](https://github.com/MagePsycho/magento2-preview-visit-catalog/pulls).

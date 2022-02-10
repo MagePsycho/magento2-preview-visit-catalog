@@ -3,7 +3,7 @@
   "description": "Magento 2 Preview / Go To Catalog Extensions",
   "keywords": ["magento", "magento2 extension", "magento 2 extension", "extension", "module", "magento2 module", "magento 2 module", "product", "category", "admin", "catalog", "preview"],
   "type": "magento2-module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://www.magepsycho.com/magento2-preview-catalog-visit-sku.html",
   "authors": [
     {
@@ -23,5 +23,7 @@
     "psr-4": {
       "MagePsycho\\GoToCatalog\\": ""
     }
-  }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
