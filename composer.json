@@ -21,7 +21,7 @@
       "src/registration.php"
     ],
     "psr-4": {
-      "MagePsycho\\GoToCatalog\\": ""
+      "MagePsycho\\GoToCatalog\\": "src"
     }
   },
   "minimum-stability": "dev",
