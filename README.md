@@ -96,7 +96,7 @@ php bin/magento setup:static-content:deploy
 
 ## Contributors
 
-![Your Repository's Stats](https://contrib.rocks/image?repo=MagePsycho/magento2-preview-visit-catalog)
+![Contributors](https://contrib.rocks/image?repo=magepsycho/magento2-preview-visit-catalog)
 
 ## To Contribute
 Any contribution to the development of `Magento 2 Preview/Visit Catalog` is highly welcome.  
