@@ -77,8 +77,9 @@ class ViewInStore extends AbstractCategory implements ButtonProviderInterface
 
     private function getCategoryUrl()
     {
-        $category = $this->getCategory()->setStoreId($this->getCurrentStoreId());
-        return $category->getUrl();
+        $category = clone $this->getCategory();
+        $category->setStoreId($this->getCurrentStoreId());
+        return $category->getUrl($category);
     }
 
     private function getCurrentStoreId()
