@@ -73,7 +73,8 @@ class ViewInStore extends Generic
 
     private function getProductUrl()
     {
-        $product = $this->getProduct()->setStoreId($this->getCurrentStoreId());
+        $product = clone $this->getProduct();
+        $product->setStoreId($this->getCurrentStoreId());
         return $this->productUrl->getProductUrl($product);
     }
 
